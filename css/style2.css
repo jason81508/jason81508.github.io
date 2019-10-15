@@ -4554,7 +4554,7 @@ footer.type-2 .copyright { margin-top: 10px; }
   .main-slider-3 { height: 600px; }
   .main-slider-4 { height: 500px; }
   .main-slider-5 .slider-block { padding-top: 0px; }
-  .main-slider-5 .slider-block-left { position: relative; height: 200px; width: 100%; }
+  .main-slider-5 .slider-block-left { position: relative; height: 320px; width: 100%; }
   .main-slider-5 .slider-block-right { width: 100%; }
   .main-slider-5 .rate-wrap { margin-bottom: 0px; }
   .main-slider-5 .sb-title { font-size: 24px; margin-bottom: 0px; }
@@ -7418,4 +7418,8 @@ body[data-color="theme-8"] .accordeon-entry h5:after {background: #d73240;}
 }
 footer {
     font-family: arial,"Microsoft JhengHei","微軟正黑體",sans-serif;
+}
+.jason-footer {
+    display: block;
+    margin: 0 auto;
 }
